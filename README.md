@@ -1,3 +1,7 @@
+# Swift 3 Version of PickerDialog
+
+[Original Project](https://github.com/aguynamedloren/ios-picker-dialog)
+
 # PickerDialog
 
 PickerDialog is a customizable class that displays a UIPickerView in a dialog
