@@ -1,12 +1,9 @@
-# Swift 3 Version of PickerDialog
-
-[Original Project](https://github.com/aguynamedloren/ios-picker-dialog)
+# Swift 3 Version of [PickerDialog](https://github.com/aguynamedloren/ios-picker-dialog)
 
 # PickerDialog
 
 PickerDialog is a customizable class that displays a UIPickerView in a dialog
-for iOS apps.  This project builds on [DatePickerDialog-iOS-Swift](https://github.com/squimer/DatePickerDialog-iOS-Swift),
-a date picker dialog developed by [Squimer](https://github.com/squimer).
+for iOS apps.
 
 ![Demo screen](example.png)
 
